@@ -67,4 +67,5 @@ typings/
 ### Project ###
 # Configuration files
 config/local*
+data/
 dist/
