@@ -1,0 +1,6 @@
+{
+  "mailer": {
+    "sender": "no-reply@twuan.net",
+    "transport": {}
+  }
+}
