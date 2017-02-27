@@ -4,7 +4,7 @@
   "author": "Alexandre Breteau <contact@seldszar.fr>",
   "private": true,
   "scripts": {
-    "compile": "babel src --out-dir dist",
+    "build": "babel src --out-dir dist",
     "start": "babel-node src/index.js"
   },
   "dependencies": {
