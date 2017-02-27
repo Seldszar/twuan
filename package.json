@@ -1,5 +1,5 @@
 {
-  "name": "tuan",
+  "name": "twuan",
   "description": "Another service to be notified when a Twitch username is available",
   "author": "Alexandre Breteau <contact@seldszar.fr>",
   "private": true,
